@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/* navbar css-start */
+.navbar{
+  background-color: #264653;
+}
+/* navbar css-end */
+/* bike css-start */
+.bike{
+  padding-left: 120px;
+}
+/* bike css-end */
+/* question css-start */
+.question{
+  color: #E76F51;
+}
+/* question css-end*
+/* client css-start */
+i{
+  color: #E77C40;
+}
+
+/* client css-end */
+/* happey css-start */
+.happy{
+  margin-top: 100px;
+  margin-bottom: 120px;
+}
+/* happey css-end */
+/* footer css-start */
+footer{
+  background-color: #0B0D17;
+  height: 250px;
+  display: flex;
+  align-items: center;
+
+}
+/* footer css-end */
