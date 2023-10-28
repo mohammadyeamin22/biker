@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  font-family: 'Poppins', sans-serif;
 }
 /* navbar css-start */
 .navbar{
@@ -9,7 +10,7 @@
 /* navbar css-end */
 /* bike css-start */
 .bike{
-  padding-left: 120px;
+  padding-left: 100px;
 }
 /* bike css-end */
 /* question css-start */
